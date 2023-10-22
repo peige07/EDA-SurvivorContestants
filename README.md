@@ -16,6 +16,8 @@
 
 For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
 
+<img src="Images/Divider.png" width="1000" height='20'>
+
 1. Ask and Identify Business Questions
 
 *The following questions will be answered:*
