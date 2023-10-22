@@ -13,11 +13,11 @@
 - Excel (data visualization and dashboard creation)
 - Tableau (data visualization and dashboard creation)
 
-Framework leveraged to complete project:
-1. Ask and Identify Business Questions
-2. Collect and Store Date
-3. Clean and Prepare Data
-4. Analyze Data
-5. Visualize and Communicate Data
+*Framework leveraged to complete project:*
+  1. Ask and Identify Business Questions
+  2. Collect and Store Date
+  3. Clean and Prepare Data
+  4. Analyze Data
+  5. Visualize and Communicate Data
 
 For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
