@@ -2,12 +2,6 @@
 
 **Purpose:** This project will explore how someone's age impacts their likelihood of winning the TV show Survivor.
 
-*The following questions will be answered:*
-- What is the average age of a survivor winner?
-- What percent of contestants over 40 make it to the merge?
-- What percent of players over 40 win Survivor?
-- Does age have an impact on someone's ability to win Survivor?
-
 *Tools & Software utilized:*
 - Python with JupyterLab (data cleaning, transformation, manipulation & visualization)
 - Excel (data visualization and dashboard creation)
@@ -21,3 +15,11 @@
   5. Visualize and Communicate Data
 
 For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
+
+1. Ask and Identify Business Questions
+
+*The following questions will be answered:*
+- What is the average age of a survivor winner?
+- What percent of contestants over 40 make it to the merge?
+- What percent of players over 40 win Survivor?
+- Does age have an impact on someone's ability to win Survivor?
