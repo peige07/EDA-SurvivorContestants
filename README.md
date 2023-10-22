@@ -8,7 +8,16 @@
 - What percent of players over 40 win Survivor?
 - Does age have an impact on someone's ability to win Survivor?
 
-JupyterLab
-SQL using Microsoft SQL Server Management Studio
-Microsoft Excel
-Tableau
+*Tools & Software utilized:*
+- Python with JupyterLab (data cleaning, transformation, manipulation & visualization)
+- Excel (data visualization and dashboard creation)
+- Tableau (data visualization and dashboard creation)
+
+Framework leveraged to complete project:
+1. Ask and Identify Business Questions
+2. Collect and Store Date
+3. Clean and Prepare Data
+4. Analyze Data
+5. Visualize and Communicate Data
+
+For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
