@@ -10,18 +10,16 @@
 *Framework leveraged to complete project:*
   1. Ask and Identify Business Questions
   2. Collect and Store Date
-  3. Clean and Prepare Data
-  4. Analyze Data
-  5. Visualize and Communicate Data
+  3. Clean, Analyze, and Visualize in Python
+  4. Visualize in Excel
+  5. Visualize in Tableau
 
 For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
-
-<img src="Images/Divider.png" width="1000" height='20'>
-
-1. Ask and Identify Business Questions
 
 *The following questions will be answered:*
 - What is the average age of a survivor winner?
 - What percent of contestants over 40 make it to the merge?
 - What percent of players over 40 win Survivor?
 - Does age have an impact on someone's ability to win Survivor?
+
+Please view the JupyterLab notebook to view the data analysis.
