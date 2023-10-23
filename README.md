@@ -1,5 +1,7 @@
 # Survivor Exploratory Data Analysis on Contestant Age
 
+For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
+
 **Purpose:** This project will explore how someone's age impacts their likelihood of winning the TV show Survivor.
 
 *Tools & Software utilized:*
@@ -13,8 +15,6 @@
   3. Clean, Analyze, and Visualize in Python
   4. Visualize in Excel
   5. Visualize in Tableau
-
-For business inquiries or collaboration requests, you can reach me at: peige77@gmail.com
 
 *The following questions will be answered:*
 - What is the average age of a survivor winner?
