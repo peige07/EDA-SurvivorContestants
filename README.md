@@ -17,9 +17,8 @@ For business inquiries or collaboration requests, you can reach me at: peige77@g
   5. Visualize in Tableau
 
 *The following questions will be answered:*
-- What is the average age of a survivor winner?
-- What percent of contestants over 40 make it to the merge?
-- What percent of players over 40 win Survivor?
-- Does age have an impact on someone's ability to win Survivor?
-
-Please view the JupyterLab notebook to view the data analysis.
+- What is the mean age of a Survivor candidate?
+- What is the mean age of a Survivor winner?
+- What percent of contestants in various age categories make it to the merge?
+- What percent of players in various age categories win Survivor?
+- Does age have an impact on a contestant's ability to win Survivor?
